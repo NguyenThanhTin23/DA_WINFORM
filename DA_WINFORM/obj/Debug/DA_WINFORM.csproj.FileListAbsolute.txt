@@ -1,0 +1,14 @@
+D:\GITHUB\DA_WINFORM\obj\Debug\DA_WINFORM.csproj.AssemblyReference.cache
+D:\GITHUB\DA_WINFORM\obj\Debug\DA_WINFORM.Form1.resources
+D:\GITHUB\DA_WINFORM\obj\Debug\DA_WINFORM.frmLogin.resources
+D:\GITHUB\DA_WINFORM\obj\Debug\DA_WINFORM.frmSignIn.resources
+D:\GITHUB\DA_WINFORM\obj\Debug\DA_WINFORM.Properties.Resources.resources
+D:\GITHUB\DA_WINFORM\obj\Debug\DA_WINFORM.csproj.GenerateResource.cache
+D:\GITHUB\DA_WINFORM\obj\Debug\DA_WINFORM.csproj.CoreCompileInputs.cache
+D:\GITHUB\DA_WINFORM\bin\Debug\DA_WINFORM.exe.config
+D:\GITHUB\DA_WINFORM\bin\Debug\DA_WINFORM.exe
+D:\GITHUB\DA_WINFORM\bin\Debug\DA_WINFORM.pdb
+D:\GITHUB\DA_WINFORM\bin\Debug\Guna.UI2.dll
+D:\GITHUB\DA_WINFORM\obj\Debug\DA_WINFORM.csproj.Up2Date
+D:\GITHUB\DA_WINFORM\obj\Debug\DA_WINFORM.exe
+D:\GITHUB\DA_WINFORM\obj\Debug\DA_WINFORM.pdb
