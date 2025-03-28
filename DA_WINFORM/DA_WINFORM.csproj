@@ -65,6 +65,12 @@
     <Compile Include="frmLogin.Designer.cs">
       <DependentUpon>frmLogin.cs</DependentUpon>
     </Compile>
+    <Compile Include="frmMainn.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMainn.Designer.cs">
+      <DependentUpon>frmMainn.cs</DependentUpon>
+    </Compile>
     <Compile Include="frmSignIn.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -82,6 +88,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="frmLogin.resx">
       <DependentUpon>frmLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMainn.resx">
+      <DependentUpon>frmMainn.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="frmSignIn.resx">
       <DependentUpon>frmSignIn.cs</DependentUpon>
@@ -126,6 +135,13 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\icons8-exit-60.png" />
+    <Content Include="Resources\8_Logo_Travel Agent_Vietravel-01.png" />
+    <Content Include="Resources\dg_200827_CAU RONG VE DEM_1.jpg" />
+    <Content Include="Resources\dg_200827_HA LONG_322052888.jpg" />
+    <Content Include="Resources\dg_200827_HA LONG_3220528881.jpg" />
+    <Content Include="Resources\dg_200914_Da Lat  %288%29.jpg" />
+    <Content Include="Resources\dg_200914_Da Lat  %288%291.jpg" />
+    <Content Include="Resources\DL.jpg" />
     <Content Include="Resources\welcome.png" />
     <Content Include="Resources\zyro-image.png" />
     <Content Include="winform_da.sql" />

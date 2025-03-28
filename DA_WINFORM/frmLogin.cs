@@ -26,8 +26,8 @@ namespace DA_WINFORM
             //string quyen = "";
             if (bllUser.PhQuyen(User) == "Admin")
             {
-                Form1 f1 = new Form1();
-                f1.Show();
+                frmMainn Main = new frmMainn();
+                Main.Show();
             }
 
             if (bllUser.PhQuyen(User) == "Employee")

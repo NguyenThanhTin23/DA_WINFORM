@@ -124,4 +124,22 @@
   <data name="icons8-exit-60" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\icons8-exit-60.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="8_Logo_Travel Agent_Vietravel-01" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\8_Logo_Travel Agent_Vietravel-01.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="dg_200827_CAU RONG VE DEM_1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\dg_200827_CAU RONG VE DEM_1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="dg_200827_HA LONG_322052888" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\dg_200827_HA LONG_322052888.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="dg_200914_Da Lat  (8)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\dg_200914_Da Lat  (8).jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="dg_200914_Da Lat  (8)1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\dg_200914_Da Lat  (8)1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="DL" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\DL.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
 </root>

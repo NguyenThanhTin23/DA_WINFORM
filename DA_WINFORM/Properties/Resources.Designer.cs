@@ -63,6 +63,66 @@ namespace DA_WINFORM.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap _8_Logo_Travel_Agent_Vietravel_01 {
+            get {
+                object obj = ResourceManager.GetObject("8_Logo_Travel Agent_Vietravel-01", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap dg_200827_CAU_RONG_VE_DEM_1 {
+            get {
+                object obj = ResourceManager.GetObject("dg_200827_CAU RONG VE DEM_1", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap dg_200827_HA_LONG_322052888 {
+            get {
+                object obj = ResourceManager.GetObject("dg_200827_HA LONG_322052888", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap dg_200914_Da_Lat___8_ {
+            get {
+                object obj = ResourceManager.GetObject("dg_200914_Da Lat  (8)", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap dg_200914_Da_Lat___8_1 {
+            get {
+                object obj = ResourceManager.GetObject("dg_200914_Da Lat  (8)1", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap DL {
+            get {
+                object obj = ResourceManager.GetObject("DL", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap icons8_exit_60 {
             get {
                 object obj = ResourceManager.GetObject("icons8-exit-60", resourceCulture);

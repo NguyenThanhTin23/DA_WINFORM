@@ -12,3 +12,4 @@ D:\GITHUB\DA_WINFORM\bin\Debug\Guna.UI2.dll
 D:\GITHUB\DA_WINFORM\obj\Debug\DA_WINFORM.csproj.Up2Date
 D:\GITHUB\DA_WINFORM\obj\Debug\DA_WINFORM.exe
 D:\GITHUB\DA_WINFORM\obj\Debug\DA_WINFORM.pdb
+D:\GITHUB\DA_WINFORM\obj\Debug\DA_WINFORM.frmMainn.resources
