@@ -1,0 +1,66 @@
+﻿using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
+using System.Drawing;
+using System.Linq;
+using System.Text;
+using System.Windows.Forms;
+
+namespace DA_WINFORM
+{
+    public partial class frmThongTinTour : Form
+    {
+        public Action ReloadCallback;
+        private string username;
+        public frmThongTinTour()
+        {
+            InitializeComponent();
+
+        }
+        public frmThongTinTour(string username)
+        {
+            InitializeComponent();
+            this.username = username;
+           
+        }
+        public string NgayKetThuc;
+        private void LoadData()
+        {
+            frmThongTinKhachHang TTKHfrm = new frmThongTinKhachHang(username);
+            TTKHfrm.picAnh1.Image = picHinh1.Image;
+            TTKHfrm.lblTenTour.Text = lblTenTour.Text;
+            TTKHfrm.lblTGKH.Text = lblTGKH.Text;
+            TTKHfrm.lblSoNgay.Text = lblSoNgay.Text;
+            TTKHfrm.lblNoiKH.Text = lblNoiKH.Text;
+            TTKHfrm.lblSlot.Text = lblSlot.Text;
+            TTKHfrm.picAnh1N.Image = picHinh1.Image;
+            TTKHfrm.lblDateBatDauChuyenDi.Text = lblTGKH.Text;
+            TTKHfrm.lblDateKetThucChuyenDi.Text = NgayKetThuc;
+            TTKHfrm.lblMaTour.Text = lblMaTour.Text;
+            TTKHfrm.Show();
+        }
+
+        private void btlDatTour_Click(object sender, EventArgs e)
+        {
+            LoadData();
+          
+
+        }
+
+        private void pnlThongTinTour_Paint(object sender, PaintEventArgs e)
+        {
+
+        }
+
+        private void picHinh1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void lblTenTour_Click(object sender, EventArgs e)
+        {
+
+        }
+    }
+}
